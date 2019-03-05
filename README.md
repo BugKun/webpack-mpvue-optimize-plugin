@@ -42,7 +42,7 @@ module.exports = {
   plugins: [
     new MpvueOptimizePlugin({
       entry: 'app.js',
-      list: [
+      chunkList: [
         'common/manifest',
         'common/vendor'
       ]
@@ -56,6 +56,6 @@ module.exports = {
 |Name|Type|Required|Description|
 |:--:|:--:|:-----:|:----------|
 |**[`entry`](#)**|`{String}`| true |小程序的入口文件|
-|**[`list`](#)**|`{Array<String>}`| true |打包优化的分包名称|
+|**[`chunkList`](#)**|`{Array<String>}`| true |打包优化的分包名称|
 
 ***
