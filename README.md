@@ -4,13 +4,13 @@
 
 ## 功能
 
-- 支持并发上传
-- 智能分析，增量上传，不重复上传
+- 修正Webpack4提取公共模块后,全局变量不正确的问题
+- 修正Webpack4提取公共模块后,不能在入口文件引用公共模块的问题
 
 ## 安装
 
 ```Bash
-npm install --save-dev webpack4-mpvue-optimize-plugin
+npm install webpack4-mpvue-optimize-plugin --save-dev
 ```
 
 
