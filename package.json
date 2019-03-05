@@ -1,0 +1,26 @@
+{
+  "name": "webpack4-mpvue-optimize-plugin",
+  "version": "0.0.1",
+  "description": "support webpack4 optimize for mpvue",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BugKun/webpack4-mpvue-optimize-plugin.git"
+},
+  "author": "nopast",
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/BugKun/webpack4-mpvue-optimize-plugin/issues"
+  },
+  "homepage": "https://github.com/BugKun/webpack4-mpvue-optimize-plugin",
+  "keywords": [
+      "webpack4",
+      "mpvue",
+      "optimize",
+      "plugin",
+      "webpack4-mpvue-optimize-plugin"
+  ]
+}
