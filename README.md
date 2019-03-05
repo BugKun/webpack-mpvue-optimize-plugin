@@ -1,6 +1,6 @@
 # webpack4-mpvue-optimize-plugin
 
->Webpack4 optimize Support for mpvue
+>Webpack4 optimize support for mpvue
 
 ## 功能
 

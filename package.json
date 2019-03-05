@@ -1,7 +1,7 @@
 {
   "name": "webpack4-mpvue-optimize-plugin",
   "version": "0.0.1",
-  "description": "support webpack4 optimize for mpvue",
+  "description": "Webpack4 optimize support for mpvue",
   "main": "src/index.js",
   "scripts": {
     "test": ""
