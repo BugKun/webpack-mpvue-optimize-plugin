@@ -18,7 +18,7 @@ class MpvueOptimizePlugin {
   }
 
   apply(compiler) {
-    if(!validate(this.options)) return;
+    if(!this.validate(this.options)) return;
 
     compiler.hooks.afterCompile.tap('MpvueOptimizePlugin', (compilation) => {
       const assets = compilation.assets,
