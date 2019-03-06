@@ -1,10 +1,10 @@
 {
   "name": "webpack4-mpvue-optimize-plugin",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Webpack4 optimize support for mpvue",
   "main": "src/index.js",
   "scripts": {
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
